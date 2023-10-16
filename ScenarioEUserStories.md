@@ -24,6 +24,17 @@ Would you prefer to rent a scooter or bicycle instead of taking public transport
 
 ## Answers
 
+### Answer 1 - Hritik UP2115893:
+
+### Answer 2 - David UP2049418:
+
+### Answer 3 - Jerome UP2064796:
+
+### Answer 4 - Oguz UP2157044:
+
+### Answer 5 - Akobir UP2158827:
+
+### Answer 6 - Tobi UP:
 
 ## Notes
 
