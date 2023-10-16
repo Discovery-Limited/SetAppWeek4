@@ -1,4 +1,4 @@
-# Scenario E
+Scenario E
 ============
 
 ## Question 1 - Hritik UP2115893:
