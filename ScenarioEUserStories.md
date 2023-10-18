@@ -14,9 +14,11 @@ Would you be comfortable with the app accessing your location?
 
 ### Question 4 - Oguz UP2157044:
 
-Are you be able to shuffle through the playlists or want to have radio that comes up with new songs for you?
++ Are you be able to shuffle through the playlists or want to have radio that comes up with new songs for you?
 
-No, I prefer to choose my own songs and also be able to choose songs inside playlists.
+- No, I prefer to choose my own songs and also be able to choose songs inside playlists.
+
+Note: User prefers to have full control over the songs, wants to select what she likes, able to change song queue and playlists.
 
 ### Question 5 - Akobir UP2158827:
 
