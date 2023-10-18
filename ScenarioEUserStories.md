@@ -22,7 +22,9 @@ Note: User prefers to have full control over the songs, wants to select what she
 
 ### Question 5 - Akobir UP2158827:
 
-### Question 6 - Tobi UP:
+### Question 6 - Tobi UP2079666:
+
+How does the weather actually effect your mood to get the right type of songs for the weather situation?
 
 ## Answers
 
