@@ -4,7 +4,7 @@
 
 ### Question 1 - Hritik UP2115893:
 
-
+Would you like to have a profile where people can follow you and see what music you are listening to at that time? 
 
 ### Question 2 - David UP2049418:
 
@@ -26,6 +26,8 @@ Would you prefer to rent a scooter or bicycle instead of taking public transport
 
 ### Answer 1 - Hritik UP2115893:
 
+like to connect to people but not available to public anywhere
+
 ### Answer 2 - David UP2049418:
 
 ### Answer 3 - Jerome UP2064796:
@@ -35,3 +37,7 @@ Would you prefer to rent a scooter or bicycle instead of taking public transport
 ### Answer 5 - Akobir UP2158827:
 
 ### Answer 6 - Tobi UP:
+
+if weather was nice listen to slower-paced music
+if rain listen to upbeat
+tweak the playlist
