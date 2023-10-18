@@ -8,7 +8,7 @@ Would you like to have a profile where people can follow you and see what music 
 
 ### Question 2 - David UP2049418:
 
-Would like to recieve suggestions for quicker routes to your destination?
+Would you be comfortable with the app accessing your location?
 
 ### Question 3 - Jerome UP2064796:
 
@@ -29,6 +29,8 @@ No, I prefer to choose my own songs and also be able to choose songs inside play
 like to connect to people but not available to public anywhere
 
 ### Answer 2 - David UP2049418:
+
+Would like to have the option to input location themselves, also input locations in advance e.g. would be in Portsmouth for 3 days and then in London afterwards.
 
 ### Answer 3 - Jerome UP2064796:
 
