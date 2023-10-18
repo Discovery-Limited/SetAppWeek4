@@ -22,27 +22,23 @@ Would you be comfortable with the app accessing your location?
 
 How does the weather actually effect your mood to get the right type of songs for the weather situation?
 
-## Answers
+## Notes
 
-### Answer 1 - Hritik UP2115893:
+### Notes 1 - Hritik UP2115893:
 
 like to connect to people but not available to public anywhere
 
-### Answer 2 - David UP2049418:
+### Notes 2 - David UP2049418:
 
 Would like to have the option to input location themselves, also input locations in advance e.g. would be in Portsmouth for 3 days and then in London afterwards.
 
-### Answer 3 - Jerome UP2064796:
-
-### Answer 4 - Oguz UP2157044:
+### Notes 4 - Oguz UP2157044:
 
 - No, I prefer to choose my own songs and also be able to choose songs inside playlists.
 
 Note: User prefers to have full control over the songs, wants to select what she likes, able to change song queue and playlists.
 
-### Answer 5 - Akobir UP2158827:
-
-### Answer 6 - Tobi UP2079666:
+### Notes 6 - Tobi UP2079666:
 
 if the weather is nice listen to slower-paced music
 if rains listen to upbeat
