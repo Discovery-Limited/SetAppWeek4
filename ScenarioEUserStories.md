@@ -37,5 +37,7 @@ Note: The user prefers to have full control over the songs, wants to select what
 ### Notes 6 - Tobi UP2079666:
 
 if the weather is nice listen to slower-paced music
+
 if rains listen to upbeat
+
 tweak the playlist
