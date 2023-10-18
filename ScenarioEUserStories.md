@@ -10,6 +10,10 @@ Would you like to have a profile where people can follow you and see what music 
 
 Would you be comfortable with the app accessing your location?
 
+### Question 3 - Akobir UP2158827:
+
+Would you like connect with your social media profiles for music sharing with friends?
+
 ### Question 4 - Oguz UP2157044:
 
 + Are you able to shuffle through the playlists or want to have a radio that comes up with new songs for you?
@@ -27,6 +31,10 @@ like to connect to people but not available to the public anywhere
 ### Notes 2 - David UP2049418:
 
 Would like to have the option to input locations themselves, and also input locations in advance e.g. would be in Portsmouth for 3 days and then in London afterward.
+
+### Notes 3 - Akobir UP2158827:
+
+User is open to social media integration for easier music sharing with friends.
 
 ### Notes 4 - Oguz UP2157044:
 
