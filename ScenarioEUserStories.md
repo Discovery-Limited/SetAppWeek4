@@ -16,10 +16,6 @@ Would you be comfortable with the app accessing your location?
 
 + Are you be able to shuffle through the playlists or want to have radio that comes up with new songs for you?
 
-- No, I prefer to choose my own songs and also be able to choose songs inside playlists.
-
-Note: User prefers to have full control over the songs, wants to select what she likes, able to change song queue and playlists.
-
 ### Question 5 - Akobir UP2158827:
 
 ### Question 6 - Tobi UP2079666:
@@ -39,6 +35,10 @@ Would like to have the option to input location themselves, also input locations
 ### Answer 3 - Jerome UP2064796:
 
 ### Answer 4 - Oguz UP2157044:
+
+- No, I prefer to choose my own songs and also be able to choose songs inside playlists.
+
+Note: User prefers to have full control over the songs, wants to select what she likes, able to change song queue and playlists.
 
 ### Answer 5 - Akobir UP2158827:
 
