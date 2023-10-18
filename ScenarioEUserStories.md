@@ -12,11 +12,11 @@ Would like to recieve suggestions for quicker routes to your destination?
 
 ### Question 3 - Jerome UP2064796:
 
-Would you prefer to use public transport instead of private vehicle for long journeys?
-
 ### Question 4 - Oguz UP2157044:
 
-Would you prefer to rent a scooter or bicycle instead of taking public transport?
+Are you be able to shuffle through the playlists or want to have radio that comes up with new songs for you?
+
+No, I prefer to choose my own songs and also be able to choose songs inside playlists.
 
 ### Question 5 - Akobir UP2158827:
 
