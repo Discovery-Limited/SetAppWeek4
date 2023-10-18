@@ -38,6 +38,6 @@ like to connect to people but not available to public anywhere
 
 ### Answer 6 - Tobi UP:
 
-if weather was nice listen to slower-paced music
-if rain listen to upbeat
+if the weather is nice listen to slower-paced music
+if rains listen to upbeat
 tweak the playlist
